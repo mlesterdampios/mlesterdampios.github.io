@@ -46,7 +46,7 @@ We publish selected writeups and tooling after events whenever allowed by rules/
 
 ---
 
-## 🔖 Badges (optional)
+## 🔖 Badges
 
 ![CTF](https://img.shields.io/badge/CTF-active-blue)
 ![Rootcon](https://img.shields.io/badge/Rootcon-19-%23f04)
