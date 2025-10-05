@@ -64,7 +64,7 @@ nav, .menu   { font-family: var(--nav-font);   text-transform: uppercase; }
   --nav-hover-color:               #ff0000;  /* Hover / active (red) */
   --nav-mobile-background-color:   rgba(255, 255, 255, 0.1);  /* Mobile menu bg */
   --nav-dropdown-background-color: rgba(255, 255, 255, 0.1);  /* Dropdown bg */
-  --nav-dropdown-color:            #212529;  /* Dropdown link text */
+  --nav-dropdown-color:            #ffffff;  /* Dropdown link text */
   --nav-dropdown-hover-color:      #ff0000;  /* Dropdown hover (red) */
 }
 
