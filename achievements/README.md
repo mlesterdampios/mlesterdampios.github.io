@@ -9,6 +9,7 @@ Relentless learners, respectful rivals. We build, break, and share.
 | Event / Platform | Track / Edition                    | Placement |
 |------------------|-------------------------------------|-----------|
 | HackTheNorth's TCON8 | CTF                             | 🥇 Champion |
+| Huntress CTF 2025 | CTF                                | 11 / 6,956 |
 | Rootcon 19       | War Drivers                         | 🥇 Champion |
 | Rootcon 19       | CTF                                 | 🥉 3rd Place |
 | TryHackMe (THM)  | Hackfinity 2025                     | 21st |
