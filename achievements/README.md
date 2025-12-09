@@ -15,6 +15,7 @@ Relentless learners, respectful rivals. We build, break, and share.
 | TryHackMe (THM)  | Hackfinity 2025                     | 21st |
 | TryHackMe (THM)  | Industrial Intrusion CTF 2025       | 12th |
 | Hack The Box (HTB)| Cyber Apocalypse 2025              | 40 / 8,130 |
+| Huntress         | CTF 2024                            | 14 / 3,447 |
 
 ---
 
