@@ -8,6 +8,7 @@ Relentless learners, respectful rivals. We build, break, and share.
 
 | Event / Platform | Track / Edition                    | Placement |
 |------------------|-------------------------------------|-----------|
+| Hack The Box (HTB)| Global Cyber Skills Benchmark 2026 | 63 / 589 |
 | HackTheNorth     | TCON8 CTF                           | 🥇 Champion |
 | Huntress         | CTF 2025                            | 11 / 6,956 |
 | Rootcon 19       | War Drivers                         | 🥇 Champion |
@@ -49,6 +50,43 @@ We publish selected writeups and tooling after events whenever allowed by rules/
 
 ---
 
+## ⚙️ HTB Global Cyber Skills Benchmark 2026 - Hall of Fame
+
+We are honoring the people who helped **Shinigami.ph and Fwends** land in 63rd place.
+
+<table>
+  <tr>
+    <td>sh3nInfoSec</td>
+    <td>ruur</td>
+    <td>LuX1eL</td>
+    <td>xpwnd4</td>
+    <td>FriedTempura</td>
+  </tr>
+  <tr>
+    <td>tyr0x</td>
+    <td>MZ3C</td>
+    <td>zchown</td>
+    <td>Mireska17</td>
+    <td>ZoeyZoey</td>
+  </tr>
+  <tr>
+    <td>CARL0MAGN0</td>
+    <td>dd0x200</td>
+    <td>drewbyte</td>
+    <td>YohanGod</td>
+    <td>Tantalos</td>
+  </tr>
+  <tr>
+    <td>zhinon</td>
+    <td>donPAPI69</td>
+    <td>etc.</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 🔖 Badges
 
 ![CTF](https://img.shields.io/badge/CTF-active-blue)
@@ -58,4 +96,4 @@ We publish selected writeups and tooling after events whenever allowed by rules/
 
 ---
 
-_Last updated: Sep 30, 2025 (PH)_
+_Last updated: May 24, 2026 (PH)_
